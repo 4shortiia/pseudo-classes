@@ -132,7 +132,7 @@ button:hover {
   grid-template-rows: repeat(3, auto);
   gap: 20px;
   width: 900px;
-  height: 600px;
+  height: 580px;
   margin: 12px 472px 0 140px;
   overflow-y: auto;
   padding-bottom: 50px;
